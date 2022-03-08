@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/kAdWtsX.gif)
+![](https://i.imgur.com/XkYhfHY.gif)
 > 每一個人都有專屬於他自己的身分證字號，這是個人身分真實與否的識別碼，類似於刻有姓名的印文、印章一樣。若冒用他人身分證字號，為私的行為，則屬偽造
